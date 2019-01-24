@@ -1,2 +1,3 @@
-# sample-todo-sb-api
-Spring Boot todo RESTful api
+# Spring Boot Todo API
+
+Simple todo api using spring boot to checkout the spring boot framework.
